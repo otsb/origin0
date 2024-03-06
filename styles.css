@@ -1,0 +1,7 @@
+h1{
+    color: blue;
+    background: #333;
+}
+body{
+    background: linear-gradient(-90deg, #333 0%, #2aa 80%);
+}

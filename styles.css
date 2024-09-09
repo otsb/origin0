@@ -5,3 +5,14 @@ h1{
 body{
     background: linear-gradient(-90deg, #333 0%, #2aa 80%);
 }
+h1{
+    text-align: center;
+}
+p{
+    color: red;
+    font-size: 2em;
+    font-family: sans-serif;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
